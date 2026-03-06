@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	body{
+	background-color:MistyRose;
+	}
+
+	h1 {
+	background-color:white;
+	color:maroon;
+	font-family:"Times New Roman",serif;
+	border-style:dashed;
+	border-width:10px;
+	text-align:center;
+	border-color:#ff99c8;
+	margin-left:500px;
+	margin-right:500px;
+	margin-bottom:75px;
+	}
+
+	.right-box{
+	float:right;
+	width:200px;
+	margin-left:50px;
+	margin-right:50px;
+	border-style:dashed;
+	}
+
+	.right-box img{
+	width:25px;
+	}
+
+	p{
+	background-color:white;
+	color:maroon;
+	font-family:"Times New Roman",serif;
+	margin-right:50px;
+	text-align:center;
+	margin-left:50px;
+	border-style:dashed;
+	border-width:10px;
+	border-color:#ff99c8;
+	}
+	
+</style>
+<title>Love Songs: 1950s to Today</title>
+</head>
+<body>
+<h1>Love Songs: 1950s to Today</h1>
+<div class=“right-box”>
+<div style= "min-height:473px" id="datawrapper-vis-y0aDm"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/y0aDm/embed.js" charset="utf-8" data-target="#datawrapper-vis-y0aDm"></script><noscript><img src="https://datawrapper.dwcdn.net/y0aDm/full.png" alt="Small multiple pie chart" /></noscript></div>
+</div>
+<p><b>Different categories of love songs has been created throughout the last seventy years. So, what can we decipher from these changes? The data provided shows how often love songs of different categories have been listed in Billboard's Top 10 Hits by decade. One notable thing we can see is the increase in songs in the Sexual Confidence category. While it peak occurred during the 2000s, the abundance of these songs increased to the double digits in the from 2000-2020, as opposed to before the new century. Throughout this time period, the way in which individuals express themselves, whether it's clothes, makeup or hair, expanded rapidly. So, this could be correlated to the rise in songs in the Sexual Confidence department. Additionally, there is a decrease in the amount of songs that are categorized as Serenade. Could this be because of the rise of independence among woman? Could this be the result of the decrease in men putting in efforts to impress their crush? Who knows!</b></p>
+
+</body>
+</html>
